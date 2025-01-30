@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Axelle Dexters
 
-<!--
-**axelledexters/axelledexters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ About Me
+  - 🧠 I am a psychologist, passionate about understanding human behavior.
+  - 🎉 Just using GitHub for fun—I'm not a tech person!
 
-Here are some ideas to get you started:
+## 🏆 Personal & Professional Values
+  - **Empathy:** Understanding people and their emotions is key.
+  - **Growth-Oriented:** Always learning and evolving.
+  - **Integrity:** Honesty and ethics are at the core of my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Interests  
+  - **Psychology & Research:** Cognitive Science, Behavioral Studies, Mental Health
+  - **Communication & Growth:** Mindfulness, Therapy, Public Speaking
+  - **For Fun:** Books, Documentaries, and the occasional deep talk!
